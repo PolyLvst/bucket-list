@@ -1,2 +1,2 @@
 Glitch website ...>
-https://bucket-lists.glitch.me
+https://my-very-own-bucket-list.glitch.me/
